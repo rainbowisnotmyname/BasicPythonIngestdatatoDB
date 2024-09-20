@@ -33,7 +33,7 @@ def load_data_to_sql(transformed_data, server, database, table):
 if __name__ == "__main__":
     # Parameters
     file_path = "employees.csv"
-    server = "AIAP-CJ8XLN3\SQLEXPRESS"
+    server = "DESKTOP-70V4JCI\SQLEXPRESS"
     database = "AllUser"
     table = "dbo.Employees"
 
